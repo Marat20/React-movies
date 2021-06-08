@@ -1,7 +1,7 @@
 {
   "name": "react-movie",
   "version": "0.1.0",
-  "homepage": "https://marat20.github.io/react-movies",
+  "homepage": "https://marat20.github.io/React-movies",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
