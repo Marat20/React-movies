@@ -1,4 +1,3 @@
-Made first react app with movies
-Used: ReactJS and Material-UI
+[React-movies](https://marat20.github.io/React-movies)
 
-[Demo](https://marat20.github.io/React-movies)
+Stacks: HTML, CSS, JS, ReactJS, MUI
